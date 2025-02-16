@@ -3,14 +3,15 @@
 # Overview
 This project demonstrates the implementation of a secure hybrid cloud architecture using Azure networking services. It includes:
 
-Virtual Networks (VNets) with subnets for on-premises and cloud environments.
+* Virtual Networks (VNets) with subnets for on-premises and cloud environments.
 
-Site-to-Site VPN connectivity between on-premises and Azure networks.
+* Site-to-Site VPN connectivity between on-premises and Azure networks.
 
-Azure Firewall for centralized traffic control and security.
+* Azure Firewall for centralized traffic control and security.
 
-Private DNS Zone for seamless name resolution across hybrid environments.
-Network security group (NSG) for granular control of traffic at subnet level
+* Private DNS Zone for seamless name resolution across hybrid environments.
+  
+* Network security group (NSG) for granular control of traffic at subnet level
 
 The project is documented in detail, including:
 
@@ -21,22 +22,22 @@ The project is documented in detail, including:
     -> Step-by-step video for easy replication.
     
 # Features
-Hybrid Connectivity: Secure VPN connection between on-premises and Azure networks.
+* Hybrid Connectivity: Secure VPN connection between on-premises and Azure networks.
 
-Traffic Control: Azure Firewall rules to allow/deny traffic based on source, destination, and protocols.
+* Traffic Control: Azure Firewall rules to allow/deny traffic based on source, destination, and protocols.
 
-Name Resolution: Private DNS Zone for resolving domain names across hybrid environments.
+* Name Resolution: Private DNS Zone for resolving domain names across hybrid environments.
 
-Security: Network Security Groups (NSGs) and Azure Firewall for enforcing security policies.
+* Security: Network Security Groups (NSGs) and Azure Firewall for enforcing security policies.
 
 # Prerequisites
 Before you begin, ensure you have the following:
 
-Azure Account: A free or paid Azure subscription.
+1. Azure Account: A free or paid Azure subscription.
 
-Azure CLI: Installed and configured on your local machine or Cloud Shell.
+2. Azure CLI: Installed and configured on your local machine or Cloud Shell.
 
-Basic Knowledge: Familiarity with Azure networking concepts (VNets, subnets, VPNs, etc.).
+3. Basic Knowledge: Familiarity with Azure networking concepts (VNets, subnets, VPNs, etc.).
 
 # Documentation
 For detailed explanation you can check the documentation on pdf format
