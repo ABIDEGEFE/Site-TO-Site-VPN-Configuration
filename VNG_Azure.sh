@@ -1,0 +1,1 @@
+az network vnet-gateway create --resource-group HybridConnection --name VNG-Azure-VNet --public-ip-addresses PIP-VNG-Azure-VNet-1 --vnet AzureVNet --gateway-type Vpn --vpn-type RouteBased --sku VpnGw1 --no-wait

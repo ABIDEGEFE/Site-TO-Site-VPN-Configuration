@@ -1,0 +1,1 @@
+az network vnet-gateway create --resource-group "HybridConnection" --name VNG-On-Premise --public-ip-addresses PIP-VNG-On-Premise --vnet OnPremVNet --gateway-type Vpn --vpn-type RouteBased --sku VpnGw1 --no-wait
