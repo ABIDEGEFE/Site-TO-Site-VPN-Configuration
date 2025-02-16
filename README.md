@@ -39,7 +39,7 @@ Azure CLI: Installed and configured on your local machine or Cloud Shell.
 Basic Knowledge: Familiarity with Azure networking concepts (VNets, subnets, VPNs, etc.).
 
 # Documentation
-For detailed explanations and configurations, refer to the file:///C:/Users/SolNet/Site-TO-Site-VPN-Configuration/NetworkingDocumentation.pdf
+For detailed explanation you can check the documentation on pdf format
 # Video explanation
 https://www.youtube.com/watch?v=-6uJkfwN3eM&t=2s
 
@@ -57,7 +57,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 5. Open a pull request.
 
 # Acknowledgments
-Microsoft Learn for Azure documentation and tutorials.
+https://learn.microsoft.com/en-us/ for Azure documentation and tutorials.
 
-Azure CLI Documentation for command references.
+https://learn.microsoft.com/en-us/cli/azure/ for command references.
 
